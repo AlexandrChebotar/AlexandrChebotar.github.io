@@ -7,3 +7,9 @@
 
 ## [HT3](https://alexandrchebotar.github.io/HT3/index.html)
 Обьекты. Реализация движка чата.
+
+## [Test1](https://alexandrchebotar.github.io/Test1/index.html)
+OOP in JS.
+
+## [Test2](https://alexandrchebotar.github.io/Test2/index.html)
+Валидация формы.
