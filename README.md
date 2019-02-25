@@ -21,4 +21,4 @@ OOP in JS.
 Валидация формы.
 
 ## [HT7](https://alexandrchebotar.github.io/HT7/no-redux/index.html)
-React. Todo-приложение на читом React.
+React. Todo-приложение на чистом React.
