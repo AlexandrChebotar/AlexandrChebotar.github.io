@@ -6,10 +6,19 @@
 Основы JS. Проверка правильного закрытия скобок и кавычек.
 
 ## [HT3](https://alexandrchebotar.github.io/HT3/index.html)
-Обьекты. Реализация движка чата.
+Обьекты. Реализация движка чата. ООП в функциональном стиле.
+
+## [HT4](https://alexandrchebotar.github.io/HT4/index.html)
+Обьекты. Реализация движка чата. ООП в прототипном стиле.
+
+## [HT5](https://alexandrchebotar.github.io/HT5/index.html)
+DOM и события. Игра "Точки".
 
 ## [Test1](https://alexandrchebotar.github.io/Test1/index.html)
 OOP in JS.
 
 ## [Test2](https://alexandrchebotar.github.io/Test2/index.html)
 Валидация формы.
+
+## [HT7](https://alexandrchebotar.github.io/HT7/no-redux/index.html)
+React. Todo-приложение на читом React.
