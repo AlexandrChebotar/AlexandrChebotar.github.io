@@ -20,8 +20,8 @@ OOP in JS.
 ## [Test2](https://alexandrchebotar.github.io/Test2/index.html)
 Валидация формы.
 
-## [HT7 (no-redux)](https://alexandrchebotar.github.io/HT7/with-redux/index.html)
+## [HT7 (no-redux)](https://alexandrchebotar.github.io/HT7/no-redux/index.html)
 React. Todo-приложение на чистом React.
 
-## [HT7 (with redux)](https://alexandrchebotar.github.io/HT7/no-redux/index.html)
+## [HT7 (with redux)](https://alexandrchebotar.github.io/HT7/with-redux/index.html)
 React. Todo-приложение на связке React + Redux.
